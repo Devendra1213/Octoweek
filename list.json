@@ -17,4 +17,10 @@
         "semester": "6th",
         "gender": "female"
     }
+    ,{
+        "name": "Devendra Singh Paikra",
+        "branch": "CSE",
+        "semester": "4th",
+        "gender": "male"
+    }
 ]
